@@ -8,7 +8,7 @@ fontmake -g Lexend.glyphs -i --family-name "Lexend Deca" -o ttf --output-dir ../
 fontmake -g Lexend.glyphs -i --family-name "Lexend Exa" -o ttf --output-dir ../fonts/ttf/
 fontmake -g Lexend.glyphs -i --family-name "Lexend Giga" -o ttf --output-dir ../fonts/ttf/
 fontmake -g Lexend.glyphs -i --family-name "Lexend Mega" -o ttf --output-dir ../fonts/ttf/
-fontmake -g Lexend.glyphs -i --family-name "Lexend Mega" -o ttf --output-dir ../fonts/ttf/
+fontmake -g Lexend.glyphs -i --family-name "Lexend Peta" -o ttf --output-dir ../fonts/ttf/
 fontmake -g Lexend.glyphs -i --family-name "Lexend Tera" -o ttf --output-dir ../fonts/ttf/
 fontmake -g Lexend.glyphs -i --family-name "Lexend Zetta" -o ttf --output-dir ../fonts/ttf/
 
